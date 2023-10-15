@@ -1,0 +1,28 @@
+.text1,
+.text3,
+.text5 {
+
+background-color: #ffcccb;
+font-family: "Verdana","Deja Vu Sans", sans-serif;
+
+}
+
+.text3 {
+    font-size: 25px;  
+}
+
+#ID-2
+{
+
+    color: #0000FF;
+    font-size: 36px;
+}
+
+#ID-4
+{
+
+    background-color: #18e187;
+    font-size: 24;
+    font-weight: bold;
+    
+}
