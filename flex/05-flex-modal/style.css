@@ -21,6 +21,9 @@ body {
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
   padding: 16px;
+  display: flex;
+  
+  
   
   
 }
@@ -36,6 +39,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+ display: flex;
+ flex-shrink: 0;
   
 }
 
@@ -58,6 +63,7 @@ button {
   cursor: pointer;
   padding: 8px 16px;
   border-radius: 8px;
+  
 }
 
 button.continue {
@@ -89,8 +95,7 @@ text-align: left;
   padding-left: 10px;
   font-weight: bold;
   font-size: large;
-  display: flex;
-  justify-content: flex-start;
+ 
 }
 
 .container-1 {
